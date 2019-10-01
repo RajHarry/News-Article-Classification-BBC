@@ -26,7 +26,7 @@ The dataset is broken into 1490 records for training and 735 for testing. The go
 ![classes](project_images/nn_acc.PNG)
 
 ## Neural networks with "Glove Embeddings"
-![classes](project_images/nn_acc.PNG)
+![classes](project_images/glove_acc.PNG)
 #### accuracy plot [NN-GLove]
 ![classes](project_images/acc_loss.PNG)
 
