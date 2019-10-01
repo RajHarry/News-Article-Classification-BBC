@@ -1,0 +1,8 @@
+================= Requirements ==================
+
+1) keras
+2) nltk
+3) sklearn
+4) xgboost
+5) textblob
+6) yellowbrick
